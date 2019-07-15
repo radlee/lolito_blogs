@@ -54,10 +54,10 @@ const Bio = () => {
         }}
       />
       <p class="desc">
-        Developed by <strong>{author}</strong> who lives and works in Cape Town building useful things.
+        Developed by <strong>{author}</strong> who lives and works in Cape Town. Inspred developer and writer.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          You can follow him on Twitter
         </a>
       </p>
     </div>
