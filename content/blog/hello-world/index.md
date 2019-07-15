@@ -1,5 +1,5 @@
 ---
-title: Blog 2 - Photography Passion
+title: Photography Passion
 date: "2019-07-15"
 ---
 
